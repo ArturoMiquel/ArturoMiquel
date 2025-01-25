@@ -16,7 +16,7 @@
 
 - 📄 Mi proyecto más grande hasta la fecha: <a href="https://arturmick.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" <a href="https://arturmick.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a> width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
 
 ### Páginas de cosas que he creado
 
