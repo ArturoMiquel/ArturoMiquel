@@ -14,7 +14,7 @@
 
 - 📫 Como contactar conmigo **arturo.miquel.trabajo@gmail.com**
 
-- 📄 Mi proyecto más grande hasta la fecha: <a href="https://arturmick.github.io/Oh-Mummy/" target="blank">Oh Mmummy!</a>
+- 📄 Mi proyecto más grande hasta la fecha: <a href="https://arturmick.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
 
