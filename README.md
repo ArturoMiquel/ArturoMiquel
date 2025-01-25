@@ -12,7 +12,7 @@
 
 - 📝 Me apasiona aprender cosas nuevas
 
-- 📫 Como contactar conmigo **arturo.miquel.trabajo@gmail.com**
+- 📫 Cómo contactar conmigo **arturo.miquel.trabajo@gmail.com**
 
 - 📄 Mi proyecto más grande hasta la fecha: <a href="https://arturmick.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a>
 
