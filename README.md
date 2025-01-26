@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
-<br>
+
 
 <p align="center">
 
@@ -38,20 +38,20 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
 
-<br>   
+ 
     
 - **Desarrollo Front-End**:
 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-<br>
+
 
 - **Cloud Hosting**:
 
   <img alt="Github Pages" src="https://img.shields.io/badge/-brightgreen?style=flat&logo=githubpages&logoColor=White&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600">
   
-<br>
+
 
 - **Softwares y herramientas**:
 
@@ -60,7 +60,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 
-<br>
+
 
 ---
 
