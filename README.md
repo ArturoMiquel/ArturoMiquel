@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado de la informática y desarrollador web</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="225" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="200" width="266" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 Ahora mismo estudio DAW en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
