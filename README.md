@@ -50,7 +50,7 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-  <img alt="GITHUB PAGES" src="[https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white](https://img.shields.io/badge/-brightgreen?style=flat&logo=githubpages&logoColor=White&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600)">
+  <img alt="GITHUB PAGES" src="https://img.shields.io/badge/-brightgreen?style=flat&logo=githubpages&logoColor=White&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600">
   
 <br>
 
