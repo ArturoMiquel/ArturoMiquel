@@ -17,7 +17,7 @@
 - 📄 Mi proyecto más grande hasta la fecha: <a href="https://arturmick.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a>🔊!!
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
-
+---
 ### Páginas de cosas que he creado
 
 <!-- BLOG-POST-LIST:START -->
@@ -27,11 +27,11 @@
 - [Recreación del videojuego para Amstrad CPC: Oh Mummy!](https://arturmick.github.io/Oh-Mummy/)
 - [Actualmente trabajando en Combates Pokémon](https://arturmick.github.io/Combates-Pokemon/)
 <!-- BLOG-POST-LIST:END -->
----
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 
 
-<p align="center">
+---
 
 - **Lenguajes**:
     
