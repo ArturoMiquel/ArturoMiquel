@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Arturo</h1>
+<h1 align="center">Hola👋, soy Arturo</h1>
 <h3 align="center">Apasionado de la informática y desarrollador web</h3>
 
 <a target="_blank" align="center">
