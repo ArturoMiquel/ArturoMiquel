@@ -7,7 +7,7 @@
 
 - 🔭 Ahora mismo estudio DAW en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
 
-- 🌱 Actualmente estoy desarrollando <a href="https://arturmick.github.io/Music-Skiller/" target="blank">Music Skiller</a>),
+- 🌱 Actualmente estoy desarrollando <a href="https://arturmick.github.io/Music-Skiller/" target="blank">Music Skiller</a>,
       una aplicación web para conservatorios de música
 
 - 📝 Me apasiona aprender cosas nuevas
