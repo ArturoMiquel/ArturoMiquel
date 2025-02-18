@@ -7,8 +7,7 @@
 
 - 🔭 Ahora mismo estudio DAW en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
 
-- 🌱 Actualmente estoy desarrollando Music Skiller,
-      una aplicación web para conservatorios de música
+- 🌱 Actualmente estoy desarrollando <a href="http://www.music-skiller.com" target="blank">Music Skiller</a>, una aplicación web para conservatorios de música
 
 - 📝 Me apasiona aprender cosas nuevas
 
