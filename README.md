@@ -24,6 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Pokédex a partir de la pokeApi](https://arturmick.github.io/Pokedex-pokeApi/)
+- [Creador de equipos Pokémon con una ruleta aleatoria](https://arturmick.github.io/Creador-de-equipos-Pokemon/)
 - [Reproductor multimedia para practicar eventos](https://arturmick.github.io/Reproductor-Multimedia/)
 - [Recreación del videojuego para Amstrad CPC: Oh Mummy!](https://arturmick.github.io/Oh-Mummy/)
 - [Actualmente trabajando en Combates Pokémon](https://arturmick.github.io/Combates-Pokemon/)
