@@ -23,11 +23,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Pokédex a partir de la pokeApi](https://arturmick.github.io/Pokedex-pokeApi/)
-- [Creador de equipos Pokémon con una ruleta aleatoria](https://arturmick.github.io/Creador-de-equipos-Pokemon/)
-- [Reproductor multimedia para practicar eventos](https://arturmick.github.io/Reproductor-Multimedia/)
-- [Recreación del videojuego para Amstrad CPC: Oh Mummy!](https://arturmick.github.io/Oh-Mummy/)
-- [Actualmente trabajando en Combates Pokémon](https://arturmick.github.io/Combates-Pokemon/)
+- [Pokédex a partir de la pokeApi](https://arturomiquel.github.io/Pokedex-pokeApi/)
+- [Creador de equipos Pokémon con una ruleta aleatoria](https://arturomiquel.github.io/Creador-de-equipos-Pokemon/)
+- [Reproductor multimedia para practicar eventos](https://arturomiquel.github.io/Reproductor-Multimedia/)
+- [Recreación del videojuego para Amstrad CPC: Oh Mummy!](https://arturomiquel.github.io/Oh-Mummy/)
+- [Actualmente trabajando en Combates Pokémon](https://arturomiquel.github.io/Combates-Pokemon/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades </b>
