@@ -5,7 +5,7 @@
   <img align="right" top="500" height="200" width="266" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Ahora mismo estudio DAW en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
+- 🔭 Técnico en Desarrollo de Aplicaciones Web, cursado en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
 
 - 🌱 Actualmente estoy desarrollando <a href="http://www.music-skiller.com" target="blank">Music Skiller</a>, una aplicación web para conservatorios de música
 
