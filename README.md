@@ -40,7 +40,7 @@
     <a href="#"><img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?style=flat&logo=springsecurity&logoColor=white&labelColor=%236DB33F"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%230F0F11?style=flat&logo=angular&logoColor=%23FF4DA8&logoSize=auto"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%233D293C?style=flat&logo=angular&logoColor=%23E600D6&logoSize=auto"></a>
     <a href="#"><img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%23FF2826?style=flat&logoColor=%23FF4DA8&logoSize=auto"></a>
 
 - **Cloud Hosting**:
