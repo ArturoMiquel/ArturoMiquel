@@ -34,14 +34,14 @@
 
 - **Lenguajes**:
     
-<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto">
-<img alt="Java" src="https://img.shields.io/badge/Java-%23FF8000?style=flat&logoSize=auto">
-<img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F?style=flat&logo=springboot&logoColor=white&labelColor=%236DB33F">
-<img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?style=flat&logo=springsecurity&logoColor=white&labelColor=%236DB33F">
-<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%230F0F11?style=flat&logo=angular&logoColor=%23FF4DA8&logoSize=auto">
-<img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%235FFF98?style=flat&logoColor=%23FF4DA8&logoSize=auto">
+    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23FF8000?style=flat&logoSize=auto">
+    <img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F?style=flat&logo=springboot&logoColor=white&labelColor=%236DB33F">
+    <img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?style=flat&logo=springsecurity&logoColor=white&labelColor=%236DB33F">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%230F0F11?style=flat&logo=angular&logoColor=%23FF4DA8&logoSize=auto">
+    <img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%235FFF98?style=flat&logoColor=%23FF4DA8&logoSize=auto">
 
 - **Cloud Hosting**:
 
