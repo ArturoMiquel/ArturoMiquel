@@ -61,6 +61,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 Credit: [Arturo Miquel](https://github.com/Arturmick)
 
 Last Edited on: 24/02/2025
