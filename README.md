@@ -47,8 +47,6 @@
 
   <a href="#"><img alt="Github Pages" src="https://img.shields.io/badge/-brightgreen?style=flat&logo=githubpages&logoColor=White&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600"></a>
   
-
-
 - **Software y herramientas**:
 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
@@ -63,4 +61,4 @@
 
 Credit: [Arturo Miquel](https://github.com/Arturmick)
 
-Last Edited on: 24/02/2025
+Last Edited on: 16/06/2025
