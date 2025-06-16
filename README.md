@@ -61,12 +61,6 @@
     <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.Js-%235FA04E?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto" /></a>
 ---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />   
-  </a>
-</p>
-
 Credit: [Arturo Miquel](https://github.com/Arturmick)
 
 Last Edited on: 24/02/2025
