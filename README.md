@@ -36,6 +36,7 @@
     
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F?style=flat&logo=springboot&logoColor=white&labelColor=%236DB33F">
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,js,html,css" />   
