@@ -19,7 +19,7 @@
 
 ---
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Páginas de cosas que he creado </b>
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Proyectos creados </b>
 
 <!-- BLOG-POST-LIST:START -->
 
