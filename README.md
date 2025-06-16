@@ -34,8 +34,8 @@
 
 - **Lenguajes**:
     
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto" style=user-select:none>
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23FF8000?style=flat&logoSize=auto">
+    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto" style="user-select:none;">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23FF8000?style=flat&logoSize=auto" style="cursor:default;">
     <img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F?style=flat&logo=springboot&logoColor=white&labelColor=%236DB33F">
     <img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?style=flat&logo=springsecurity&logoColor=white&labelColor=%236DB33F">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
