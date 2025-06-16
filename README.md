@@ -34,14 +34,14 @@
 
 - **Lenguajes**:
     
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23FF8000?style=flat&logoSize=auto">
-    <img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F?style=flat&logo=springboot&logoColor=white&labelColor=%236DB33F">
-    <img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?style=flat&logo=springsecurity&logoColor=white&labelColor=%236DB33F">
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-
-
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto">
+<img alt="Java" src="https://img.shields.io/badge/Java-%23FF8000?style=flat&logoSize=auto">
+<img alt="Springboot" src="https://img.shields.io/badge/Springboot-%236DB33F?style=flat&logo=springboot&logoColor=white&labelColor=%236DB33F">
+<img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?style=flat&logo=springsecurity&logoColor=white&labelColor=%236DB33F">
+<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%230F0F11?style=flat&logo=angular&logoColor=%23FF4DA8&logoSize=auto">
+<img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%235FFF98?style=flat&logoColor=%23FF4DA8&logoSize=auto">
 
 - **Cloud Hosting**:
 
@@ -51,10 +51,10 @@
 
 - **Software y herramientas**:
 
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=flat&logo=jetbrains&logoColor=white" /></a>
 
 ---
 
