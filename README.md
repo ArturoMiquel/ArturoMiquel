@@ -10,6 +10,8 @@
 - 🌱 Actualmente estoy desarrollando <a href="http://www.music-skiller.com" target="blank">Music Skiller</a>, una aplicación web para conservatorios de música
 
 - 📝 Me apasiona aprender cosas nuevas
+  
+- 🇬🇧🚌☎️ Titulado en inglés (B2) por Cambridge
 
 - 📫 Cómo contactar conmigo: **arturo.miquel.trabajo@gmail.com**
 
