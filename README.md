@@ -5,9 +5,9 @@
   <img align="right" top="500" height="200" width="266" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Técnico en Desarrollo de Aplicaciones Web, cursado en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
+- 🌱 Actualmente trabajando para la <a href="http://www.fundacion.valenciaport.com" target="blank">Fundación Valenciaport</a> como DevOps de <a href="https://paula.digiport.com.es" target="blank">Port CDM</a>
 
-- 🌱 Actualmente estoy desarrollando <a href="http://www.music-skiller.com" target="blank">Music Skiller</a>, una aplicación web para conservatorios de música
+- 🔭 Técnico en Desarrollo de Aplicaciones Web, cursado en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
 
 - 📝 Me apasiona aprender cosas nuevas
   
@@ -15,7 +15,7 @@
 
 - 📫 Cómo contactar conmigo: **arturo.miquel.trabajo@gmail.com**
 
-- 📄 Mi proyecto más grande hasta la fecha: <a href="https://arturomiquel.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a>🔊!!
+- 📄 Juego AMSTRAD remake: <a href="https://arturomiquel.github.io/Oh-Mummy/" target="blank">Oh Mummy!</a>🔊!!
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
 
