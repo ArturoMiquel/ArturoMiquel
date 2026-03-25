@@ -24,10 +24,10 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Proyectos creados </b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Actualmente trabajando en Combates Pokémon](https://arturomiquel.github.io/Combates-Pokemon/)
 - [Pokédex a partir de la pokeApi](https://arturomiquel.github.io/Pokedex-pokeApi/)
 - [Reproductor multimedia para practicar eventos](https://arturomiquel.github.io/Reproductor-Multimedia/)
 - [Recreación del videojuego para Amstrad CPC: Oh Mummy!](https://arturomiquel.github.io/Oh-Mummy/)
-- [Actualmente trabajando en Combates Pokémon](https://arturomiquel.github.io/Combates-Pokemon/)
 <!-- [Creador de equipos Pokémon con una ruleta aleatoria](https://arturomiquel.github.io/Creador-de-equipos-Pokemon/)-->
 <!-- BLOG-POST-LIST:END -->
 
