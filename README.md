@@ -43,7 +43,7 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%233D293C?style=flat&logo=angular&logoColor=%23E600D6&logoSize=auto"></a>
     <a href="#"><img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%23FF2826?style=flat&logoColor=%23FF4DA8&logoSize=auto"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=%232496ED"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/%232496ED-Docker-blue?style=flat&logoSize=auto"></a>
     
 
 
