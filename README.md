@@ -44,12 +44,15 @@
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%233D293C?style=flat&logo=angular&logoColor=%23E600D6&logoSize=auto"></a>
     <a href="#"><img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%23FF2826?style=flat&logoColor=%23FF4DA8&logoSize=auto"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=%2302A8EF&logoSize=auto"></a>
+    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet&logoColor=white&logoSize=auto"></a>
     
 
 
 - **Cloud Hosting**:
 
   <a href="#"><img alt="Github Pages" src="https://img.shields.io/badge/-brightgreen?style=flat&logo=githubpages&logoColor=White&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600"></a>
+  <a href="#"><img alt="Docker Hub" src="https://img.shields.io/badge/Docker_Hub-blue?style=flat&logo=docker&logoColor=%2302A8EF&logoSize=auto"></a>
+  
   
 - **Software y herramientas**:
 
