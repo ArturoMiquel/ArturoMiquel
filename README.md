@@ -68,4 +68,4 @@
 
 Credit: [Arturo Miquel](https://github.com/Arturmick)
 
-Last Edited on: 16/06/2025
+Last Edited on: 24/04/2026
