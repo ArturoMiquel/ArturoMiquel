@@ -71,6 +71,6 @@
 
 ---
 
-Credit: [Arturo Miquel](https://github.com/Arturmick)
+Credit: [Arturo Miquel](https://github.com/Arturomiquel)
 
 Last Edited on: 24/04/2026
