@@ -5,7 +5,9 @@
   <img align="right" top="500" height="200" width="266" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 Actualmente trabajando para la <a href="http://www.fundacion.valenciaport.com" target="blank">Fundación Valenciaport</a> como DevOps de <a href="https://paula.digiport.com.es" target="blank">Port CDM</a>
+- 🌱 Actualmente trabajando para la <a href="http://www.fundacion.valenciaport.com" target="blank">Fundación Valenciaport</a> como DevOps de:
+       - <a href="https://paula.digiport.com.es" target="blank">Port CDM</a>
+       - <a href="https://www.port-footprint.com" target="blank">Port Footprint</a>
 
 - 🔭 Técnico en Desarrollo de Aplicaciones Web, cursado en <a href="https://portal.edu.gva.es/fpcheste/" target="blank">CIPFP Cheste</a>
 
