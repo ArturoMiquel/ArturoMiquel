@@ -45,7 +45,6 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%233D293C?style=flat&logo=angular&logoColor=%23E600D6&logoSize=auto"></a>
     <a href="#"><img alt="plsql" src="https://img.shields.io/badge/PL%2FSQL-%23FF2826?style=flat&logoColor=%23FF4DA8&logoSize=auto"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=%2302A8EF&logoSize=auto"></a>
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet&logoColor=white&logoSize=auto"></a>
     
 
@@ -58,6 +57,7 @@
   
 - **Software y herramientas**:
 
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=%2302A8EF&logoSize=auto"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" /></a>
@@ -66,6 +66,9 @@
     <a href="#"><img alt="Plastic" src="https://img.shields.io/badge/Plastic-%23FF7235?style=flat&logo=producthunt&logoColor=white&logoSize=auto" /></a>
     <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36?style=flat&logo=apachemaven&logoColor=white&logoSize=auto" /></a>
     <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.Js-%235FA04E?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto" /></a>
+    <a href="#"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-%23AECBFA?style=flat&logo=keycloak&logoColor=%234D4D4D&logoSize=auto" /></a>
+
+
 ---
 
 Credit: [Arturo Miquel](https://github.com/Arturmick)
